@@ -1,0 +1,577 @@
+[
+  {
+    "inci": "Aqua",
+    "aliases": [
+      "water",
+      "eau"
+    ],
+    "category": "solvent",
+    "tier": "functional",
+    "function": "Main solvent that carries the other ingredients",
+    "chemistry": "H2O",
+    "skin_note": "Base of most formulas. No skin concern on its own.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Sodium Lauryl Sulfate",
+    "aliases": [
+      "sls",
+      "sodium lauryl sulphate",
+      "sodium dodecyl sulfate"
+    ],
+    "category": "surfactant",
+    "tier": "irritant",
+    "function": "Cleansing agent that makes foam",
+    "chemistry": "Anionic surfactant (alkyl sulfate)",
+    "skin_note": "Can strip skin oils and irritate or dry sensitive skin. The effect depends on concentration and how long it stays on the skin.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Sodium Laureth Sulfate",
+    "aliases": [
+      "sles",
+      "sodium laureth sulphate"
+    ],
+    "category": "surfactant",
+    "tier": "irritant",
+    "function": "Cleansing agent that makes foam",
+    "chemistry": "Anionic surfactant (ethoxylated alkyl sulfate)",
+    "skin_note": "Generally treated as gentler than SLS but can still irritate sensitive skin.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Ammonium Lauryl Sulfate",
+    "aliases": [
+      "als",
+      "ammonium lauryl sulphate"
+    ],
+    "category": "surfactant",
+    "tier": "irritant",
+    "function": "Cleansing agent that makes foam",
+    "chemistry": "Anionic surfactant (alkyl sulfate)",
+    "skin_note": "Can irritate or dry sensitive skin, like other sulfate cleansers.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Cocamidopropyl Betaine",
+    "aliases": [
+      "capb"
+    ],
+    "category": "surfactant",
+    "tier": "functional",
+    "function": "Mild co-surfactant that adds foam and softens stronger cleansers",
+    "chemistry": "Amphoteric surfactant (betaine)",
+    "skin_note": "Usually well tolerated. Allergic reactions are uncommon but reported.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Methylparaben",
+    "aliases": [
+      "methyl paraben",
+      "methyl 4-hydroxybenzoate"
+    ],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Ester of 4-hydroxybenzoic acid",
+    "skin_note": "Regulated preservative. Safety conclusions depend on concentration and conditions of use, not on the name alone.",
+    "source": "Ref 1 (Cherian et al. 2020)",
+    "reviewed": false
+  },
+  {
+    "inci": "Ethylparaben",
+    "aliases": [
+      "ethyl paraben"
+    ],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Ester of 4-hydroxybenzoic acid",
+    "skin_note": "Regulated preservative. Safety conclusions depend on concentration and conditions of use, not on the name alone.",
+    "source": "Ref 1 (Cherian et al. 2020)",
+    "reviewed": false
+  },
+  {
+    "inci": "Propylparaben",
+    "aliases": [
+      "propyl paraben"
+    ],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Ester of 4-hydroxybenzoic acid",
+    "skin_note": "Regulated preservative. Safety conclusions depend on concentration and conditions of use, not on the name alone.",
+    "source": "Ref 1 (Cherian et al. 2020)",
+    "reviewed": false
+  },
+  {
+    "inci": "Butylparaben",
+    "aliases": [
+      "butyl paraben"
+    ],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Ester of 4-hydroxybenzoic acid",
+    "skin_note": "Regulated preservative. Safety conclusions depend on concentration and conditions of use, not on the name alone.",
+    "source": "Ref 1 (Cherian et al. 2020)",
+    "reviewed": false
+  },
+  {
+    "inci": "Phenoxyethanol",
+    "aliases": [],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Glycol ether alcohol",
+    "skin_note": "Widely used preservative with limits on its concentration.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Sodium Benzoate",
+    "aliases": [],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Salt of benzoic acid",
+    "skin_note": "Preservative that works best in slightly acidic products.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Potassium Sorbate",
+    "aliases": [],
+    "category": "preservative",
+    "tier": "functional",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Salt of sorbic acid",
+    "skin_note": "Preservative often used together with other preservatives.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "DMDM Hydantoin",
+    "aliases": [
+      "dmdm"
+    ],
+    "category": "preservative",
+    "tier": "irritant",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Formaldehyde-releasing hydantoin",
+    "skin_note": "Releases small amounts of formaldehyde, a known skin allergen. Can trigger reactions in sensitised people.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Methylisothiazolinone",
+    "aliases": [
+      "mit"
+    ],
+    "category": "preservative",
+    "tier": "irritant",
+    "function": "Prevents microbial growth in the product",
+    "chemistry": "Isothiazolinone biocide",
+    "skin_note": "A common cause of contact allergy in sensitised people. Use is restricted in some regions.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Triclosan",
+    "aliases": [],
+    "category": "antimicrobial",
+    "tier": "irritant",
+    "function": "Kills or slows bacteria",
+    "chemistry": "Chlorinated phenolic antimicrobial",
+    "skin_note": "Use is restricted in some regions. Needs review.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Diethyl Phthalate",
+    "aliases": [
+      "dep"
+    ],
+    "category": "phthalate",
+    "tier": "irritant",
+    "function": "Fragrance solvent and plasticiser",
+    "chemistry": "Phthalate ester",
+    "skin_note": "Phthalate that needs review. A label cannot show contamination or the exact amount.",
+    "source": "Refs 10-12 (phthalate studies)",
+    "reviewed": false
+  },
+  {
+    "inci": "Dibutyl Phthalate",
+    "aliases": [
+      "dbp"
+    ],
+    "category": "phthalate",
+    "tier": "irritant",
+    "function": "Plasticiser, mainly in nail products",
+    "chemistry": "Phthalate ester",
+    "skin_note": "Phthalate restricted in cosmetics in some regions. Needs review.",
+    "source": "Refs 10-12 (phthalate studies)",
+    "reviewed": false
+  },
+  {
+    "inci": "Parfum",
+    "aliases": [
+      "fragrance",
+      "perfume",
+      "aroma"
+    ],
+    "category": "fragrance",
+    "tier": "irritant",
+    "function": "Gives the product its scent",
+    "chemistry": "Mixture of aroma chemicals",
+    "skin_note": "Undisclosed mix of scent chemicals and a common source of contact allergy.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Limonene",
+    "aliases": [
+      "d limonene",
+      "dl limonene"
+    ],
+    "category": "fragrance",
+    "tier": "irritant",
+    "function": "Scent component",
+    "chemistry": "Cyclic monoterpene",
+    "skin_note": "Fragrance component that can oxidise in air and then sensitise skin.",
+    "source": "Ref 19 (Buonomo and Warshaw 2021)",
+    "reviewed": false
+  },
+  {
+    "inci": "Linalool",
+    "aliases": [],
+    "category": "fragrance",
+    "tier": "irritant",
+    "function": "Scent component",
+    "chemistry": "Acyclic monoterpene alcohol",
+    "skin_note": "Fragrance component that can oxidise in air and then sensitise skin.",
+    "source": "Ref 19 (Buonomo and Warshaw 2021)",
+    "reviewed": false
+  },
+  {
+    "inci": "Eugenol",
+    "aliases": [],
+    "category": "fragrance",
+    "tier": "irritant",
+    "function": "Scent component",
+    "chemistry": "Phenolic aroma compound",
+    "skin_note": "Fragrance component and a known contact allergen.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Melaleuca Alternifolia Leaf Oil",
+    "aliases": [
+      "tea tree oil",
+      "melaleuca alternifolia oil",
+      "tea tree leaf oil"
+    ],
+    "category": "essential oil",
+    "tier": "irritant",
+    "function": "Fragrance and antimicrobial claims",
+    "chemistry": "Terpene-rich essential oil",
+    "skin_note": "Can cause contact allergy in some people. Oxidised oil is more likely to sensitise.",
+    "source": "Ref 19 (Buonomo and Warshaw 2021)",
+    "reviewed": false
+  },
+  {
+    "inci": "Lavandula Angustifolia Oil",
+    "aliases": [
+      "lavender oil",
+      "lavender essential oil",
+      "lavandula angustifolia flower oil"
+    ],
+    "category": "essential oil",
+    "tier": "irritant",
+    "function": "Fragrance",
+    "chemistry": "Terpene-rich essential oil",
+    "skin_note": "Can cause contact allergy in some people. Oxidised oil is more likely to sensitise.",
+    "source": "Ref 19 (Buonomo and Warshaw 2021)",
+    "reviewed": false
+  },
+  {
+    "inci": "Aloe Barbadensis Leaf Juice",
+    "aliases": [
+      "aloe vera",
+      "aloe vera gel",
+      "aloe barbadensis leaf extract"
+    ],
+    "category": "plant extract",
+    "tier": "beneficial",
+    "function": "Soothing and moisturising plant gel",
+    "chemistry": "Plant gel rich in polysaccharides (acemannan)",
+    "skin_note": "Polysaccharides are linked to soothing and healing. Allergic reactions are possible in some people.",
+    "source": "Ref 18 (Matei et al. 2025)",
+    "reviewed": false
+  },
+  {
+    "inci": "Tocopherol",
+    "aliases": [
+      "vitamin e"
+    ],
+    "category": "antioxidant",
+    "tier": "beneficial",
+    "function": "Antioxidant that protects skin and the formula from oxidation",
+    "chemistry": "Fat-soluble phenolic antioxidant (vitamin E)",
+    "skin_note": "Well-known antioxidant ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Niacinamide",
+    "aliases": [
+      "vitamin b3",
+      "nicotinamide"
+    ],
+    "category": "vitamin",
+    "tier": "beneficial",
+    "function": "Supports the skin barrier",
+    "chemistry": "Amide of vitamin B3",
+    "skin_note": "Commonly used vitamin B3 derivative.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Sodium Hyaluronate",
+    "aliases": [
+      "hyaluronic acid"
+    ],
+    "category": "humectant",
+    "tier": "beneficial",
+    "function": "Holds water on the skin surface",
+    "chemistry": "Salt of a glycosaminoglycan",
+    "skin_note": "Moisturising ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Panthenol",
+    "aliases": [
+      "provitamin b5",
+      "dexpanthenol",
+      "d panthenol"
+    ],
+    "category": "vitamin",
+    "tier": "beneficial",
+    "function": "Moisturising and soothing",
+    "chemistry": "Alcohol analogue of pantothenic acid",
+    "skin_note": "Moisturising and soothing ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Allantoin",
+    "aliases": [],
+    "category": "skin conditioner",
+    "tier": "beneficial",
+    "function": "Softening and soothing",
+    "chemistry": "Diureide of glyoxylic acid",
+    "skin_note": "Soothing and softening ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Glycerin",
+    "aliases": [
+      "glycerol",
+      "glycerine"
+    ],
+    "category": "humectant",
+    "tier": "beneficial",
+    "function": "Draws water into the outer skin layer",
+    "chemistry": "Polyol (triol)",
+    "skin_note": "Common moisturising ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Butyrospermum Parkii Butter",
+    "aliases": [
+      "shea butter"
+    ],
+    "category": "emollient",
+    "tier": "beneficial",
+    "function": "Softens and smooths the skin",
+    "chemistry": "Plant butter (triglycerides)",
+    "skin_note": "Emollient plant butter.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Camellia Sinensis Leaf Extract",
+    "aliases": [
+      "green tea extract",
+      "camellia sinensis extract"
+    ],
+    "category": "plant extract",
+    "tier": "unknown",
+    "function": "Antioxidant claims",
+    "chemistry": "Polyphenol-rich plant extract (catechins)",
+    "skin_note": "Reported benefits rest mostly on lab studies. Human evidence for a finished product is limited.",
+    "source": "Refs 2 and 17",
+    "reviewed": false
+  },
+  {
+    "inci": "Chamomilla Recutita Flower Extract",
+    "aliases": [
+      "chamomile extract",
+      "matricaria chamomilla flower extract"
+    ],
+    "category": "plant extract",
+    "tier": "unknown",
+    "function": "Soothing claims",
+    "chemistry": "Flavonoid-rich plant extract",
+    "skin_note": "Reported benefits rest mostly on lab studies. Human evidence for a finished product is limited.",
+    "source": "Ref 17",
+    "reviewed": false
+  },
+  {
+    "inci": "Cucumis Sativus Fruit Extract",
+    "aliases": [
+      "cucumber extract",
+      "cucumber fruit extract"
+    ],
+    "category": "plant extract",
+    "tier": "unknown",
+    "function": "Soothing and freshening claims",
+    "chemistry": "Water-rich plant extract",
+    "skin_note": "Reported benefits rest mostly on lab studies. Human evidence for a finished product is limited.",
+    "source": "Ref 17",
+    "reviewed": false
+  },
+  {
+    "inci": "Dimethicone",
+    "aliases": [],
+    "category": "silicone",
+    "tier": "functional",
+    "function": "Gives slip and forms a light protective film",
+    "chemistry": "Silicone polymer",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Cetyl Alcohol",
+    "aliases": [],
+    "category": "emollient",
+    "tier": "functional",
+    "function": "Thickens and softens",
+    "chemistry": "Fatty alcohol",
+    "skin_note": "Fatty alcohol, not a drying alcohol.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Cetearyl Alcohol",
+    "aliases": [],
+    "category": "emollient",
+    "tier": "functional",
+    "function": "Thickens and softens",
+    "chemistry": "Fatty alcohol blend",
+    "skin_note": "Fatty alcohol blend, not a drying alcohol.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Stearic Acid",
+    "aliases": [],
+    "category": "emulsifier",
+    "tier": "functional",
+    "function": "Thickens and helps oil and water mix",
+    "chemistry": "Fatty acid",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Glyceryl Stearate",
+    "aliases": [],
+    "category": "emulsifier",
+    "tier": "functional",
+    "function": "Helps oil and water mix",
+    "chemistry": "Glycerol ester of stearic acid",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Carbomer",
+    "aliases": [],
+    "category": "thickener",
+    "tier": "functional",
+    "function": "Thickens gels and creams",
+    "chemistry": "Cross-linked acrylic acid polymer",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Citric Acid",
+    "aliases": [],
+    "category": "pH adjuster",
+    "tier": "functional",
+    "function": "Adjusts the pH of the product",
+    "chemistry": "Organic acid",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Sodium Hydroxide",
+    "aliases": [],
+    "category": "pH adjuster",
+    "tier": "functional",
+    "function": "Adjusts the pH of the product",
+    "chemistry": "Strong base",
+    "skin_note": "Used in tiny amounts and neutralised in the finished product.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Disodium EDTA",
+    "aliases": [],
+    "category": "chelating agent",
+    "tier": "functional",
+    "function": "Binds metal ions to keep the formula stable",
+    "chemistry": "Chelating salt of EDTA",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Sodium Chloride",
+    "aliases": [
+      "salt"
+    ],
+    "category": "thickener",
+    "tier": "functional",
+    "function": "Thickens cleansing products",
+    "chemistry": "Inorganic salt",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  },
+  {
+    "inci": "Paraffinum Liquidum",
+    "aliases": [
+      "mineral oil"
+    ],
+    "category": "emollient",
+    "tier": "functional",
+    "function": "Forms a barrier that slows water loss",
+    "chemistry": "Hydrocarbon mixture",
+    "skin_note": "Common functional ingredient.",
+    "source": "",
+    "reviewed": false
+  }
+]
